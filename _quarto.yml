@@ -3,13 +3,12 @@ project:
   output-dir: _book
   
 book:
-  title: "Title of Next Bestseller"
-  author: "JJB"
+  title: "Heraclitus Ephesius"
+  author: "SILVA, Martim"
   description: | 
-    TBA
-  #cover-image: images/cover.png
+    Um site de referência sobre o filósofo jônico Heráclito que floresceu durante o período arcaico.
   site-url: https://tutorials.thecoatlessprofessor.com/quarto-book-template
-  repo-url: https://github.com/coatless-tutorials/quarto-book-template
+  repo-url: https://github.com/bcdavasconcelos/Heraclitus
   repo-branch: main
   repo-actions: [edit]
   sharing: [twitter, facebook, linkedin]
